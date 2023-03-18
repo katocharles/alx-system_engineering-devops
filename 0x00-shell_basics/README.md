@@ -4,3 +4,5 @@
 
 1-listit: script to list contnets of a folder
 
+2-bring_me_home: script to change to home directory
+
