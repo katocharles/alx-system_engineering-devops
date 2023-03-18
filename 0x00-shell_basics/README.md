@@ -62,3 +62,5 @@
 
 100-lets_move: script to move files
 
+101-clean_emacs: script to remove files ending with ~
+
