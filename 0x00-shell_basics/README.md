@@ -52,5 +52,4 @@
 
 9-firstdirdeletion: script to delete folder
 
-10-back: script to goback to previous working directory
-
+11-list: script to list files in folders passed as arguments
