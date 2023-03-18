@@ -52,4 +52,8 @@
 
 9-firstdirdeletion: script to delete folder
 
-11-list: script to list files in folders passed as arguments
+11-list: script to list files in folders passed as argumens
+
+12-file_type: check file type of a  file
+
+
