@@ -16,3 +16,6 @@
 
 7-movethatfile: script to move file from one location to another
 
+8-delete file: script to delete file
+
+
