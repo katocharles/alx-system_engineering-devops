@@ -10,3 +10,5 @@
 
 4-listmorefiles: script to list all files including hidden ones
 
+5-listfilesdigitonly: script to list files digital
+
