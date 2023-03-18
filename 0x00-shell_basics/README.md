@@ -18,4 +18,39 @@
 
 8-delete file: script to delete file
 
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working director
+
+9-firstdirdeletion: script to delete folder
+
+10-back: script to goback to previous working directory
 
