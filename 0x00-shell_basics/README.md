@@ -12,3 +12,5 @@
 
 5-listfilesdigitonly: script to list files digital
 
+6-firstdirectory: script to create directory in tmp folder
+
