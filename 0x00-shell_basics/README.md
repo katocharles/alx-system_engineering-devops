@@ -8,3 +8,5 @@
 
 3-listfiles: script to list filesin long format
 
+4-listmorefiles: script to list all files including hidden ones
+
